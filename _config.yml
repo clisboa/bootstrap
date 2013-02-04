@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: none
-baseurl: "bootstrap"
+baseurl: "clisboa.github.com/bootstrap"
 exclude:
 - .gitignore
 - README.md
